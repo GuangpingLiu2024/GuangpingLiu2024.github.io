@@ -12,7 +12,7 @@ This project revolves around designing a software-integrated, force-instrumented
 
 ## Turtlebot-based SLAM and April Tag Detection
 <a href="https://youtu.be/lUepFLHuZ8g">
-  <img src="picture/6aa9872f1afd8c0f23aae7e78d1be27.png" alt="Watch video" width="600">
+  <img src="assets/6aa9872f1afd8c0f23aae7e78d1be27.png" alt="Watch video" width="600">
 </a>
 
 (Click to see the video)
@@ -41,9 +41,9 @@ A Multi-functional Stroller is a comprehensive design to provide a solution for 
 ## Down-Type Cross-Type Small Parking Space
 <img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43896a9f-9404-408a-8eb6-4ede9aee7f51" alt="Description of image" width="600">
 
-<img src="picture/image6.GIF" alt="Description of image" width="600">
+<img src="assets/image6.GIF" alt="Description of image" width="600">
 
-<img src="picture/image7.GIF" alt="Description of image" width="600">
+<img src="assets/image7.GIF" alt="Description of image" width="600">
 
 This project introduces an innovative parking solution designed to maximize space efficiency in community settings. It features a parking machine that elevates vehicles to a second-floor parking area, thereby allowing the ground level to be utilized for additional parking. This dual-level arrangement optimizes space usage and significantly enhances parking capacity. It won the first prize in 8th Mechanical Innovative Design Competition for National College Student in China.
 
