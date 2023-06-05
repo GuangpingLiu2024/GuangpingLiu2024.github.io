@@ -19,12 +19,22 @@ This project revolves around designing a software-integrated, force-instrumented
 The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We harnessed the capabilities of a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unfamiliar environment, pinpoint the robot's position, and detect tags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside ready-made packages and custom Python scripts, facilitating an in-depth understanding of ROS and its applications.
 
 ## Feature Attribution in Predicting Survival on the Titanic
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/36a2f327-d258-45a3-b5d3-57d1af9b94ba" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43b0e9cf-4056-45d8-aafa-e229ceb03f58" alt="Description of image" width="400">
 
-This machine learning project is to use Titanic passengers' information dataset to build a model to predic survival. We used multiple models like Linear Regression, Naive Bayes and Neural Network. Besides, we further used feature attribution to figure out which feature is the most important in all features.
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/763d15f4-ea77-496f-a846-1862a5998006" alt="Description of image" width="400">
+
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/22d13d25-8b13-4a71-af47-2984cff3cb66" alt="Description of image" width="400">
+
+In this machine learning project, we harnessed the Titanic passengers' data set to construct a predictive model for survival. We explored various modeling strategies, including Logistic Regression, Naive Bayes, and Neural Networks. Moreover, we delved deeper into feature importance, utilizing feature attribution to identify the most influential attributes within the data set.
 
 ## DC Motor Control by Simulink and Arduino IDE
+https://github.com/PingpingL/PingpingL.github.io/assets/118013785/0a5c41bf-9f67-4d96-abbb-3e9d4ce502b0
+
+The project involves embedded programming with a DC motor using Arduino and Simulink. In it, I employed feedback control coupled with a proportional controller to manage the motor's velocities and positions.
 
 ## A Multi-functional Stroller
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/d7aef2f8-41d1-407f-82db-075ecd873a7d" alt="Description of image" width="400">
+
+A Multi-functional Stroller is a comprehensive design to provide a solution for parents to take care of their children. Leveraging the capabilities of SolidWorks, this project dived into the detailed design process, generated accurate assembly drawings, and simulated the movement of the stroller using SolidWorks Motion Simulation. 
 
 ## Down-Type Cross-Type Small Parking Space
