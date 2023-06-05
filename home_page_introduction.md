@@ -1,5 +1,5 @@
 <p float="right">
-  <img src="50377865_00301_0268_Large.jpg" width="250" /> 
+  <img src="50377865_00201_0263_Large.jpg" width="250" /> 
   <br>
   
   Welcome to my personal website, a hub where I showcase my passion for engineering and innovative projects. 
