@@ -12,7 +12,7 @@ This project revolves around designing a software-integrated, force-instrumented
 
 ## Turtlebot-based SLAM and April Tag Detection
 <a href="https://youtu.be/lUepFLHuZ8g">
-  <img src="picture/6aa9872f1afd8c0f23aae7e78d1be27.png" alt="Watch video" width="400">
+  <img src="picture/6aa9872f1afd8c0f23aae7e78d1be27.png" alt="Watch video" width="600">
 </a>
 
 (Click to see the video)
@@ -34,16 +34,16 @@ https://github.com/PingpingL/PingpingL.github.io/assets/118013785/0a5c41bf-9f67-
 The project involves embedded programming with a DC motor using Arduino and Simulink. In it, I employed feedback control coupled with a proportional controller to manage the motor's velocities and positions.
 
 ## A Multi-functional Stroller
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/d7aef2f8-41d1-407f-82db-075ecd873a7d" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/d7aef2f8-41d1-407f-82db-075ecd873a7d" alt="Description of image" width="600">
 
 A Multi-functional Stroller is a comprehensive design to provide a solution for parents to take care of their children. Leveraging the capabilities of SolidWorks, this project dived into the detailed design process, generated accurate assembly drawings, and simulated the movement of the stroller using SolidWorks Motion Simulation. 
 
 ## Down-Type Cross-Type Small Parking Space
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43896a9f-9404-408a-8eb6-4ede9aee7f51" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43896a9f-9404-408a-8eb6-4ede9aee7f51" alt="Description of image" width="600">
 
-<img src="picture/image6.GIF" alt="Description of image" width="400">
+<img src="picture/image6.GIF" alt="Description of image" width="600">
 
-<img src="picture/image7.GIF" alt="Description of image" width="400">
+<img src="picture/image7.GIF" alt="Description of image" width="600">
 
 This project introduces an innovative parking solution designed to maximize space efficiency in community settings. It features a parking machine that elevates vehicles to a second-floor parking area, thereby allowing the ground level to be utilized for additional parking. This dual-level arrangement optimizes space usage and significantly enhances parking capacity. It won the first prize in 8th Mechanical Innovative Design Competition for National College Student in China.
 
