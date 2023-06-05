@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/path/to/image.jpg" width="100" /> 
+  <img src="50377865_00301_0268_Large.jpg" width="100" /> 
   <br>
   Welcome to my personal website, a hub where I showcase my passion for engineering and innovative projects. 
 
