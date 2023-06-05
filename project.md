@@ -19,11 +19,11 @@ This project revolves around designing a software-integrated, force-instrumented
 The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We harnessed the capabilities of a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unfamiliar environment, pinpoint the robot's position, and detect tags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside ready-made packages and custom Python scripts, facilitating an in-depth understanding of ROS and its applications.
 
 ## Feature Attribution in Predicting Survival on the Titanic
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43b0e9cf-4056-45d8-aafa-e229ceb03f58" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43b0e9cf-4056-45d8-aafa-e229ceb03f58" alt="Description of image" width="600">
 
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/763d15f4-ea77-496f-a846-1862a5998006" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/763d15f4-ea77-496f-a846-1862a5998006" alt="Description of image" width="600">
 
-<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/22d13d25-8b13-4a71-af47-2984cff3cb66" alt="Description of image" width="400">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/22d13d25-8b13-4a71-af47-2984cff3cb66" alt="Description of image" width="600">
 
 In this machine learning project, we harnessed the Titanic passengers' data set to construct a predictive model for survival. We explored various modeling strategies, including Logistic Regression, Naive Bayes, and Neural Networks. Moreover, we delved deeper into feature importance, utilizing feature attribution to identify the most influential attributes within the data set.
 
@@ -38,3 +38,17 @@ The project involves embedded programming with a DC motor using Arduino and Simu
 A Multi-functional Stroller is a comprehensive design to provide a solution for parents to take care of their children. Leveraging the capabilities of SolidWorks, this project dived into the detailed design process, generated accurate assembly drawings, and simulated the movement of the stroller using SolidWorks Motion Simulation. 
 
 ## Down-Type Cross-Type Small Parking Space
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43896a9f-9404-408a-8eb6-4ede9aee7f51" alt="Description of image" width="400">
+
+<img src="picture/image6.GIF" alt="Description of image" width="400">
+
+<img src="picture/image7.GIF" alt="Description of image" width="400">
+
+This project introduces an innovative parking solution designed to maximize space efficiency in community settings. It features a parking machine that elevates vehicles to a second-floor parking area, thereby allowing the ground level to be utilized for additional parking. This dual-level arrangement optimizes space usage and significantly enhances parking capacity. It won the first prize in 8th Mechanical Innovative Design Competition for National College Student in China.
+
+
+
+
+
+
+
