@@ -25,10 +25,7 @@ The video showcased above presents our final project for the Mobile Robotics cou
 In this machine learning project, we harnessed the Titanic passengers' data set to construct a predictive model for survival. We explored various modeling strategies, including Logistic Regression, Naive Bayes, and Neural Networks. Moreover, we delved deeper into feature importance, utilizing feature attribution to identify the most influential attributes within the data set.
 
 ## DC Motor Control by Simulink and Arduino IDE
-<video width="720" height="1280" controls>
-  <source src="assets/12ac7b345ee8afcf571023a556174cd5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+{% include DC motor.html id="V4ljx9hxrpU" %}
 
 The project involves embedded programming with a DC motor using Arduino and Simulink. In it, I employed feedback control coupled with a proportional controller to manage the motor's velocities and positions.
 
