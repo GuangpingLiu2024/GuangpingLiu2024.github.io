@@ -15,6 +15,14 @@ This project revolves around designing a software-integrated, force-instrumented
 
 The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We harnessed the capabilities of a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unfamiliar environment, pinpoint the robot's position, and detect tags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside ready-made packages and custom Python scripts, facilitating an in-depth understanding of ROS and its applications.
 
+## Frozen Lake with Q-Learning
+<video width="320" height="240" controls>
+  <source src="assets/replay .mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Q-Learning is an off-policy value-based method that uses a TD approach to train its action-value function. In this project, I implement Q-Learning with some libraries to train a model. In this model, our "hero" needs to avoid pools and find a way to the get the gift. Keep an eye on my study on DQL. 
+
 ## Feature Attribution in Predicting Survival on the Titanic
 <img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/43b0e9cf-4056-45d8-aafa-e229ceb03f58" alt="Description of image" width="600">
 
