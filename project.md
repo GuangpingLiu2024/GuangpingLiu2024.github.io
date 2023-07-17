@@ -17,7 +17,7 @@ The video showcased above presents our final project for the Mobile Robotics cou
 
 ## Frozen Lake with Q-Learning
 <video width="320" height="240" controls>
-  <source src="/assets/replay.mp4" type="video/mp4">
+  <source src="/assets/replay .mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
