@@ -13,7 +13,7 @@ The project revolved around the development of a force-instrumented treadmill de
 ## Turtlebot-based SLAM and April Tag Detection
 {% include turtlebot.html id="lUepFLHuZ8g" %}
 
-The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We ustilized a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unknown environment, pinpoint the robot's position, and detect AprilTags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside off-shelf packages and custom Python scripts, leading to an in-depth understanding of ROS and its applications.
+The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We utilized a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unknown environment, pinpoint the robot's position, and detect AprilTags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside off-shelf packages and custom Python scripts, leading to an in-depth understanding of ROS and its applications.
 
 ## Frozen Lake with Q-Learning
 <video width="320" height="240" controls>
