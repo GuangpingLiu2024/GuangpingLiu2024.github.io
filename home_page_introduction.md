@@ -1,12 +1,12 @@
-  ![50377865_00101_0276_Large](https://github.com/PingpingL/PingpingL.github.io/assets/118013785/b111419e-70e8-4e1f-9e75-2472adbd56b1)
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/b111419e-70e8-4e1f-9e75-2472adbd56b1" alt="50377865_00101_0276_Large" style="width: 45%; display: inline-block; margin-right: 5%;">
+<img src="https://github.com/PingpingL/PingpingL.github.io/assets/118013785/c78617c1-408d-4c86-91d9-9fb0b4afad11" alt="photo_5139041211796008018_y" style="width: 45%; display: inline-block;">
 
-  
-  Welcome to my personal website, a hub where I showcase my passion for engineering and innovative projects. 
+Hi there! I'm Guangping Liu. Welcome to my personal page!
 
-  As a recent Master's graduate in Mechanical Engineering from Northeastern University, I've fostered a keen interest in assistive robots, robot control and 
-  exoskeleton. 
 
-  This space offers an insight into the breadth of my academic pursuits and project work, highlighting my commitment to the dynamic world of engineering. If my work   piques your interest or you see potential for collaboration, I warmly invite you to reach out. Together, we can navigate this exciting journey and contribute to     engineering the future.
+
+
+
 
 
 
