@@ -5,6 +5,8 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+url: "https://GuangpingLiu2024.github.io" # Your new GitHub Pages URL
+baseurl: "" # Leave this blank if your site is at the root
 
 # Layout
 
@@ -24,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "guangping.liu@slu.edu"}
-  - {title: Github, icon: github, url: "https://github.com/PingpingL"}
+  - {title: Github, icon: github, url: "https://github.com/GuangpingLiu2024"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
