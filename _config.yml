@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home_page_introduction.md", title: "Home"}
+  - {file: "index.md", title: "Home"}
  # - {url: "assets/resume.pdf", title: "Resume(English)" }
   #- {url: "assets/resume_chinese.pdf", title: "Resume(Chinese)" }
   - {file: "project.md", title: "Past Project"}
