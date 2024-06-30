@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project"
+title: "Pase Project"
 permalink: "/about/"
 ---
 Welcome to my engineering journey, showcased through this unique collection of projects. Each one reflects the skills I've honed and the knowledge gained, marking my growth in this dynamic field. Let's explore this realm of creativity and precision together.
