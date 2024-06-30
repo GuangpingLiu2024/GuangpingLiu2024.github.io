@@ -10,7 +10,7 @@ Welcome to my engineering journey, showcased through this unique collection of p
 
 The project revolved around the development of a force-instrumented treadmill designed to self-regulate and match an individual's walking or running pace. It simplifies access to force-plate data and assists researchers in conducting cost-effective and efficient studies in the fields of human gait and rehabilitation. During this project, I built a Graphical User Interface (GUI) to facilitate communication with the treadmill, implemented a self-pacing algorithm to control its speed, and designed a kinetic model to estimate the lateral Center of Mass (COM) movement. By comparing with practical data derived from Motion Capture Systems in pilot experiments, the model provided highly accurate estimations. Additionally, the project involved about diverse knowledge areas, including hardware communication protocols, software management, and control methods.
 
-## Turtlebot-based SLAM and April Tag Detection
+<!-- ## Turtlebot-based SLAM and April Tag Detection
 {% include turtlebot.html id="lUepFLHuZ8g" %}
 
 The video showcased above presents our final project for the Mobile Robotics course at Northeastern University. We utilized a Turtlebot3 for Simultaneous Localization and Mapping (SLAM) to explore and map an unknown environment, pinpoint the robot's position, and detect AprilTags using a specialized detection scheme. This project extensively leveraged the Robot Operating System (ROS) alongside off-shelf packages and custom Python scripts, leading to an in-depth understanding of ROS and its applications.
@@ -52,7 +52,7 @@ A Multi-functional Stroller is a comprehensive design to provide a solution for 
 
 <img src="/assets/image7.GIF" alt="Description of image" width="600">
 
-This project introduces an innovative parking solution designed to maximize space efficiency in community settings. It features a parking machine that elevates vehicles to a second-floor parking area, thereby allowing the ground level to be utilized for additional parking. This dual-level arrangement optimizes space usage and significantly enhances parking capacity. It won the first prize in 8th Mechanical Innovative Design Competition for National College Student in China.
+This project introduces an innovative parking solution designed to maximize space efficiency in community settings. It features a parking machine that elevates vehicles to a second-floor parking area, thereby allowing the ground level to be utilized for additional parking. This dual-level arrangement optimizes space usage and significantly enhances parking capacity. It won the first prize in 8th Mechanical Innovative Design Competition for National College Student in China. -->
 
 
 
