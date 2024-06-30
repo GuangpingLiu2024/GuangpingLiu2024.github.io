@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pase Research"
+title: "Past Research"
 permalink: "/about/"
 ---
 
