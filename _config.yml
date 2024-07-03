@@ -5,8 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-url: "https://GuangpingLiu2024.github.io" # Your new GitHub Pages URL
-baseurl: "" # Leave this blank if your site is at the root
+
 
 # Layout
 
