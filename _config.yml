@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "guangping.liu@slu.edu"}
+ # - {title: Mail, icon: envelope, url: "guangping.liu@slu.edu"}
   - {title: Github, icon: github, url: "https://github.com/GuangpingLiu2024"}
 
 comments:
