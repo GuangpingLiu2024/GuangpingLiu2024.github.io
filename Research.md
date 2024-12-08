@@ -1,3 +1,7 @@
+---
+layout: page
+title: "News"
+---
 
 ## Kanako Miura Award(11/22/2024)
 I am grateful for the support of the Kanako Miura Award. The 2024 IEEE-RAS International Conference on Humanoid Robots was an excellent opportunity to connect with and engage in discussions with researchers in robotics.
