@@ -15,3 +15,5 @@ I am currently pursuing my PhD at the [Mecharithm Lab](https://mecharithmlab.com
 Assisted Robotics<br>
 Robot Simulation<br>
 Human Robot Interaction<br>
+# Contact
+Email: guangping.liu@slu.edu
