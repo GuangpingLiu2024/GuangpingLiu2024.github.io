@@ -11,3 +11,7 @@ Hi there! I'm Guangping Liu. Welcome to my personal page!
 
 # Biography
 I am currently pursuing my PhD at the [Mecharithm Lab](https://mecharithmlab.com/), Saint Louis University. I completed my master's degree from 2021 to 2023 and was a master's student at the [Neuromechanics of Movement Lab](https://neumove.org/) at Northeastern University from 2022 to 2023.
+# My Research Interests are:<br>
+Assisted Robotics<br>
+Robot Simulation<br>
+Human Robot Interaction<br>
