@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Past Research"
+title: "Research"
 permalink: "/about/"
 ---
-
-## MATLAB App for treadmills: COM tracking and self-pacing control
+## MATLAB App for treadmills: COM tracking and self-pacing control(Past Research)
 {% include treadmill.html id="WSWWkngDGDg" %}
 
 The project revolved around the development of a force-instrumented treadmill designed to self-regulate and match an individual's walking or running pace. It simplifies access to force-plate data and assists researchers in conducting cost-effective and efficient studies in the fields of human gait and rehabilitation. During this project, I built a Graphical User Interface (GUI) to facilitate communication with the treadmill, implemented a self-pacing algorithm to control its speed, and designed a kinetic model to estimate the lateral Center of Mass (COM) movement. By comparing with practical data derived from Motion Capture Systems in pilot experiments, the model provided highly accurate estimations. Additionally, the project involved about diverse knowledge areas, including hardware communication protocols, software management, and control methods.
