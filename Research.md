@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "News"
-permalink: "/about/"
 ---
 
 ## Kanako Miura Award(11/22/2024)
