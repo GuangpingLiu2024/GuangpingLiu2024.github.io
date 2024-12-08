@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  # - {url: "assets/resume.pdf", title: "Resume(English)" }
   #- {url: "assets/resume_chinese.pdf", title: "Resume(Chinese)" }
   - {file: "project.md", title: "Research"}
-  - {file: "Research.md", title: "News"}
+  - {file: "News.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
  # - {title: Mail, icon: envelope, url: "guangping.liu@slu.edu"}
