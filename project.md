@@ -3,6 +3,10 @@ layout: page
 title: "Research"
 permalink: "/about/"
 ---
+## WheelArm-Sim
+[Watch the video](https://youtu.be/m4w6PAx8fN8?si=cuDWd148NYKAOFQz)
+
+
 ## MATLAB App for treadmills: COM tracking and self-pacing control(Past Research)
 {% include treadmill.html id="WSWWkngDGDg" %}
 
