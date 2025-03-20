@@ -5,6 +5,8 @@ permalink: "/about/"
 ---
 ## WheelArm-Sim
 {% include wheelarm_sim.html id="m4w6PAx8fN8" %}
+Although recent advancements in assistive robotics have focused on Wheelchair-Mounted Robot Manipulators (WMRMs), integrated and intuitive control of both the wheelchair and robot arm remains significantly underexplored. Therefore, we introduce WheelArm, a cyber-physical system (CPS) that integrates wheelchair and robotic arm control. This work presents WheelArm-Sim, a simulation framework developed in Isaac Sim for synthetic data collection, which includes an indoor simulation environment and a ROS2-based data collection workflow. A small multimodal dataset has been collected and will be published in the future. In this video, we demonstrate the data collection process using WheelArm-Sim.
+
 
 
 ## MATLAB App for treadmills: COM tracking and self-pacing control(Past Research)
