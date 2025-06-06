@@ -4,8 +4,8 @@ title: "News"
 ---
 ## Midwest Robotics Workshop Interactive Presentation (06/02/2025)
 It was a wonderful experience to share our recent work in MWRW and talk with people in Robotics.<br>
-<img src="picture/mwrw1.jpg" style="width: 34%; display: inline-block; margin-right: 5%;">
-<img src="picture/mwrw.jpg" style="width: 30%; ;display: inline-block; margin-right: 5%;">
+<img src="assets/mwrw1.jpg" style="width: 34%; display: inline-block; margin-right: 5%;">
+<img src="assets/mwrw.jpg" style="width: 30%; ;display: inline-block; margin-right: 5%;">
 
 
 
