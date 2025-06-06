@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Publication"
+permalink: "/about/"
+---
 ## 2025
 **TransNN-MHA: A Transformer-Based Model to Distinguish Real and Imaginary Motor Intent for Assistive Robotics**  
 Sultan, Tipu, Guangping Liu, Pascal Sikorski, and Madi Babaiasl. IEEE Access (2025).
