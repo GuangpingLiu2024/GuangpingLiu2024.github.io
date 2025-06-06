@@ -3,8 +3,9 @@ layout: page
 title: "News"
 ---
 ## Midwest Robotics Workshop Interactive Presentation (06/02/2025)
-It was a wonderful experience to share our recent work in MWRW and talk with people in Robotics.
-![mwrw1](https://github.com/user-attachments/assets/721b6f23-4fcc-44c7-aca2-25151c70c9c8)
+It was a wonderful experience to share our recent work in MWRW and talk with people in Robotics.<br>
+<img src="picture/mwrw1.jpg" alt="50377865_00101_0276_Large" style="width: 34%; display: inline-block; margin-right: 5%;">
+<img src="picture/mwrw.jpg" alt="50377865_00101_0276_Large" style="width: 30%; ;display: inline-block; margin-right: 5%;">
 
 
 ## Kanako Miura Award(11/22/2024)
